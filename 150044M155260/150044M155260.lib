@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 150044M155260
+#/1778377/1552022/2.50/4/4/LED
+DEF 150044M155260 LED 0 30 Y Y 1 F N
+F0 "LED" 850 300 50 H V L CNN
+F1 "150044M155260" 850 200 50 H V L CNN
+F2 "150044M155260" 850 100 50 H I L CNN
+F3 "https://www.we-online.com/catalog/datasheet/150044M155260.pdf" 850 0 50 H I L CNN
+F4 "2.4 V, 3.1 V, 3.3 V RGB LED 1010 (0404)  SMD, Wurth Elektronik WL-SFCC 150044M155260" 850 -100 50 H I L CNN "Description"
+F5 "0.75" 850 -200 50 H I L CNN "Height"
+F6 "710-150044M155260" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150044M155260?qs=u16ybLDytRba39Og9E2ywA%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Wurth Elektronik" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "150044M155260" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X +RGB 1 0 -100 200 R 50 50 0 0 P
+X -R 2 0 0 200 R 50 50 0 0 P
+X -G 3 1000 0 200 L 50 50 0 0 P
+X -B 4 1000 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

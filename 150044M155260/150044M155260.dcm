@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150044M155260
+D 2.4 V, 3.1 V, 3.3 V RGB LED 1010 (0404)  SMD, Wurth Elektronik WL-SFCC 150044M155260
+K
+F https://www.we-online.com/catalog/datasheet/150044M155260.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NCP1117LPST33T3G
+PartCategory=Integrated Circuit
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=3.1
+Released=2015-08-17 09:01:23
+Downloaded=2024-12-03 12:08:32
+3D=Y
